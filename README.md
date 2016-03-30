@@ -10,6 +10,9 @@ The map visualization can be found at http://mediagestalt.com/maps/hail.html.
 
 --------
 #### Automator for Mac Instructions:
-Open Automator and create a new application. Copy the settings shown in the image below.
+- Open Automator and create a new application. 
+- Copy the settings shown in the image below.
+- Save the application in your preferred directory.
+- Drag the .DAT files onto the application and the files will change to .TXT in their home directory.
 
-![Automator Application](https://github.com/mediagestalt/hail/extensionChanger.png)
+![Automator Application](https://github.com/mediagestalt/Hail/blob/master/extensionChanger.png)
