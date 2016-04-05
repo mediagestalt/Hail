@@ -1,6 +1,6 @@
 # Hail Data
 
-This repo contains the iPython Notebooks used to parse the data from the [Alberta Hail Project Meteorological and Barge-Humphries Radar Archive](https://dataverse.library.ualberta.ca/dvn/dv/hail_data). The entire archive, metadata, and information about permissions can be found in the University of Alberta's Dataverse, accessed at the previous link.
+This repo contains the iPython Notebooks used to parse the data from the [Alberta Hail Project Meteorological and Barge-Humphries Radar Archive](https://dataverse.library.ualberta.ca/dvn/dv/hail_data). The entire archive, metadata, and information about permissions can be found in the University of Alberta Libraries Dataverse, accessed at the previous link.
 
 The raw data used in this repo can be downloaded from [Dataverse](https://dataverse.library.ualberta.ca/dvn/dv/hail_data); the file extensions were changed from .DAT to .TXT using Automator on Mac (see image below). The .CSV files are a result of the code in the iPython notebooks (the files with the extension .IPYNB)
 
