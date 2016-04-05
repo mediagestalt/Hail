@@ -8,6 +8,8 @@ This data, code, and the resulting visualizations are part of a data rescue / re
 
 The map visualization can be found at http://mediagestalt.com/maps/hail.html.
 
+_Citation_
+Alberta Research Council. The Alberta Hail Project Meteorological and Barge-Humphries Radar Archive:[computer files], Edmonton, Alberta, CANADA. Alberta Research Council [producer], University of Alberta Data Library [distributor]. August 1995.
 --------
 #### Automator for Mac Instructions:
 - Open Automator and create a new application. 
