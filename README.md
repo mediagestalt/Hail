@@ -6,7 +6,7 @@ The raw data used in this repo can be downloaded from [Dataverse](https://datave
 
 This data, code, and the resulting visualizations are part of a data rescue / reuse project and presentation by Sandra Schwab, Larry Laliberte, and Anna Bombak at the University of Alberta.
 
-The map visualization can be found at http://mediagestalt.com/maps/hail.html.
+The map visualization can be found at http://mediagestalt.com/tutorials/hail.html.
 
 _Citation_
 
